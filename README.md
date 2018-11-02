@@ -2,6 +2,7 @@
 
 #USER-SETTINGS
 
+<!--
 {
 "javascript.updateImportsOnFileMove.enabled": "always",
 "editor.formatOnSave": true,
@@ -20,9 +21,9 @@
 
 # in the file font.css is the file for using two fonts in vscode.
 
-$ --list-extensions | xargs -L 1 echo code --install-extension
+$ --list-extensions | xargs -L 1 echo code --install-extension -->
 
-code --install-extension be5invis.vscode-custom-css
+<!-- code --install-extension be5invis.vscode-custom-css
 code --install-extension codepunkt.vscode-oldhope-italics
 code --install-extension CoenraadS.bracket-pair-colorizer
 code --install-extension dbaeumer.vscode-eslint
@@ -36,4 +37,4 @@ code --install-extension misogi.ruby-rubocop
 code --install-extension rebornix.ruby
 code --install-extension steoates.autoimport
 code --install-extension wayou.vscode-todo-highlight
-code --install-extension xabikos.JavaScriptSnippets
+code --install-extension xabikos.JavaScriptSnippets -->

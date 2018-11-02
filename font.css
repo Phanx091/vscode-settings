@@ -1,4 +1,4 @@
-.mtk7,
+/* .mtk7,
 .mtk3,
 .mtk13,
 .mtk16 {
@@ -10,12 +10,12 @@
 .mtk4 {
   font-family: "Fira Code iScript";
   font-size: 1.1em;
-}
+} */
 
 /*
   For the tab titles.
 */
-.monaco-icon-label-description-container .label-name {
+/* .monaco-icon-label-description-container .label-name {
   font-family: "Fira Code iScript";
   font-size: 1.1em;
 }
@@ -26,4 +26,4 @@
   font-family: -apple-system, BlinkMacSystemFont, Segoe WPC, Segoe UI,
     HelveticaNeue-Light, Ubuntu, Droid Sans, sans-serif;
   font-size: 1em;
-}
+} */
