@@ -31,13 +31,9 @@ code --install-extension esbenp.prettier-vscode
 code --install-extension fabiospampinato.vscode-no-unsupported
 code --install-extension iamkd.one-monokai-italics
 code --install-extension idbartosz.darkpp-italic
-code --install-extension lehni.vscode-fix-checksums
-code --install-extension markskelton.one-dark-pro-italic
 code --install-extension mblode.one-dark-italic
 code --install-extension misogi.ruby-rubocop
-code --install-extension naumovs.theme-oceanicnext
 code --install-extension rebornix.ruby
-code --install-extension robertonovelo.dark-plus-operator-mono
 code --install-extension steoates.autoimport
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension xabikos.JavaScriptSnippets
